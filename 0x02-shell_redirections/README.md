@@ -1,0 +1,1 @@
+The file hello world prints the statement "hello world"
